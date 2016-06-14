@@ -19,7 +19,7 @@ public class Cifrado {
     public static void main(String[] args) {
         int[] arg = {1, 2, 3, 5, 6};
 
-        System.out.println(Arrays.binarySearch(args, 2));
+        System.out.println(Arrays.binarySearch(arg, 2));
 
     }
 
